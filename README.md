@@ -17,13 +17,15 @@ O usuário deve ser capaz de:
 - Flexbox
 - JavaScript
 - React
-- useState(renderização condicional)
-- useRef
+- Hooks
+    - useState
+    - useRef
 
 ### Screenshot
 
 Desktop:
 ![Desktop](/src/assets/gerich-restaurant-print1.png)
+
 Mobile:
 ![Mobile](./src/assets/gerich-restaurant-print3.png)
 
