@@ -27,6 +27,10 @@ Desktop:
 Mobile:
 ![Mobile](./src/assets/gerich-restaurant-print3.png)
 
+### Link do Site
+
+[Link do Site](https://simonfranklin1.github.io/Landing-page-Restaurante/)
+
 ### Autor
 
 [Simon Franklin](https://github.com/simonfranklin1)
