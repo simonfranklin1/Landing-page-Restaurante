@@ -23,6 +23,7 @@
     margin-right: 2rem;
     padding: 0.75rem 1rem;
     background: var(--color-black);
+    outline: none;
 }
 
 .app__newsletter-input button {
