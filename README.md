@@ -23,11 +23,7 @@ O usuário deve ser capaz de:
 
 ### Screenshot
 
-Desktop:
-![Desktop](/src/assets/gerich-restaurant-print1.png)
-
-Mobile:
-![Mobile](./src/assets/gerich-restaurant-print3.png)
+![Desktop](/src/assets/screenshot-gericht-restaurant.png)
 
 ### Link do Site
 
