@@ -49,7 +49,7 @@
 }
 
 .app__footer-links_icons svg:hover {
-    color: var(--color-golden);
+    fill: var(--color-golden);
 }
 
 .app__footer-headtext {
